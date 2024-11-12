@@ -1,9 +1,9 @@
-global.namaown = "Qasim Ali" // your owner name here
-global.namabot = "© GlobalTechInfo" // your bot name here
+global.namaown = "Hashan" // your owner name here
+global.namabot = "Panda" // your bot name here
 global.versisc = "9.5.0" //
-global.owner = ["923444844060"] // your owner number here
-global.tele = "https://t.me/GlobalBotInc" // your telegram here
-global.url = "https://www.youtube.com/@GlobalTechInfo" // Your YouTube Here
+global.owner = ["94782543893"] // your owner number here
+global.tele = "https://t.me/" // your telegram here
+global.url = "https://www.youtube.com/" // Your YouTube Here
 global.namastore = "LynnZxD" // UBAH NAMA STORE LU
 global.simbol = "✪" // You Can Change Simbol
 global.wlcm = []
@@ -14,19 +14,19 @@ global.limitawal = {
 }
 
 // Ganti Logo Disini
-global.painlogo = "http://telegra.ph/file/9a332c815ad31956d5ce6.jpg" 
+global.painlogo = "https://telegra.ph/file/7721cf222f9790f3fcd1b.jpg" 
 
 global.my = {
-      saluran: "https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07",
+      saluran: "https://wa.me/qr/P6WADRJOKAFUK1",
       idCH: "120363319098372999@newsletter",
-      youtube: "https://www.youtube.com/@GlobalTechInfo",
-      telegram: "https://t.me/GlobalBotInc",
-      Instagram: "https://www.instagram.com/"
+      youtube: "https://wa.me/qr/P6WADRJOKAFUK1",
+      telegram: "https://wa.me/qr/P6WADRJOKAFUK1",
+      Instagram: "https://wa.me/qr/P6WADRJOKAFUK1"
    }
 
 
 global.mess = {
-    success: 'ᴅᴏɴᴇ',
+    success: 'Done😏',
     admin: '_*❗ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴀɴ ᴀᴅᴍɪɴ !*_',
     botAdmin: '_*❗ʙᴏᴛ ᴍᴜꜱᴛ ʙᴇ ᴛʜᴇ ᴀᴅᴍɪɴ !*_',
     OnlyOwner: '_*❗ᴏᴡɴᴇʀꜱ ꜱᴘᴇᴄɪᴀʟ ꜰᴜɴᴄᴛɪᴏɴ !*_',
